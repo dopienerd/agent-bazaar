@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.graggrobotics/agent-bazaar",
+  "title": "Agent Bazaar",
+  "description": "Search finished products and code (spreadsheets, Python automation) instead of rebuilding them.",
+  "version": "1.0.0",
+  "websiteUrl": "https://graggrobotics.com/agent-bazaar",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://graggrobotics.com/mcp"
+    }
+  ]
+}
