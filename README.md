@@ -35,7 +35,7 @@ Any MCP client that takes a URL: add `https://graggrobotics.com/mcp` as a Stream
 ## How it works
 
 - **Facts only.** Listings describe the item. No hidden text, nothing that tries to steer an agent.
-- **People approve purchases.** Products are bought through ordinary Etsy, Payhip or Gumroad checkout; services by quote.
+- **How buying works.** Products are bought through ordinary Etsy, Payhip or Gumroad checkout; services by quote.
 - **What we record:** search terms and product requests (no personal data) to improve the catalog. Buy links carry
   `utm_source=agent-bazaar` so we can see which sales agents helped with.
 
