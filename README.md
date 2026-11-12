@@ -47,3 +47,9 @@ Any MCP client that takes a URL: add `https://graggrobotics.com/mcp` as a Stream
 4. Payouts to makers.
 
 Want your finished work listed when open listings arrive? Open an issue or email graggrobotics@gmail.com.
+
+## Security
+
+Report security issues to graggrobotics@gmail.com (subject: "Agent Bazaar security"). The hosted server needs no
+credentials and stores no personal data beyond what a caller chooses to send through `post_message`,
+`request_product` or `quote_automation`.
